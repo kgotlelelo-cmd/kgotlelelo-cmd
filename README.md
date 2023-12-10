@@ -4,7 +4,7 @@
 
 I am from South Africa. my interest & skills in tech include Amazon web services, Terraform, Node JS, React JS, and Java
 
-Skills: REACT / JS / HTML / CSS / NODE JS/ AWS / Terraform / Docker
+Skills: REACT / JS / HTML / CSS / NODE JS/ AWS / Terraform / Docker / Java
 
 - 🔭 I’m currently working on Work projects 
 - 🌱 I’m currently learning Cloud technnology 
