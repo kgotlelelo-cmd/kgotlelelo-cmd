@@ -9,8 +9,6 @@ Skills: REACT / JS / HTML / CSS / NODE JS/ AWS / Terraform / Docker / Java
 - 🔭 I’m currently working on Work projects 
 - 🌱 I’m currently learning Cloud technnology
 
-![aws solutions architect]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png))
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kgotlelelo-cmd)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgotlelelo-cmd)](https://github.com/anuraghazra/github-readme-stats)
