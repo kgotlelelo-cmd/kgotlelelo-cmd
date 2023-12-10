@@ -9,9 +9,6 @@ Skills: REACT / JS / HTML / CSS / NODE JS/ AWS / Terraform / Docker / Java
 - 🔭 I’m currently working on Work projects 
 - 🌱 I’m currently learning Cloud technnology 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kgotlelelo-cmd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/masenamelakay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>]([https://www.youtube.com/channel/KGonCloud-qo8ob](https://www.youtube.com/channel/UCm4XMT4f88NM8sD9f4w-LKg))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kgotlelelo.com)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kgotlelelo-cmd)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgotlelelo-cmd)](https://github.com/anuraghazra/github-readme-stats)
