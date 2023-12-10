@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, my name is Kgotlelelo
+### Hi there 👋, my name is Kgotlelelo
 #### software engineer & cloud enthusiast
 ![software engineer & cloud enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
