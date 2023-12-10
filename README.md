@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Kgotlelelo
 #### software engineer & cloud enthusiast
-![software engineer & cloud enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am from South Africa. my interest & skills in tech include Amazon web services, Terraform, Node JS, React JS, and Java
 
